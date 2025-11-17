@@ -14,7 +14,7 @@ typechain-types/
 *.iml
 *.swp
 *.swo
-
+ 
 # Log files
 logs/
 *.log
